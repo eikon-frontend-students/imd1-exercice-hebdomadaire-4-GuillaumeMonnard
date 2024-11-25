@@ -15,11 +15,12 @@ div {
   line-height: 32px; /* 133.333% */
   letter-spacing: -0.12px;
   margin-bottom: 0px;
+  margin-left: 16px;
 
   display: flex;
   gap: 10px;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
 }
 
 span {
@@ -40,8 +41,9 @@ p {
   line-height: 32px; /* 200% */
   letter-spacing: -0.08px;
   margin-top: 0px;
+  margin-left: 61px;
 
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: start;
+  justify-content: start;
 }
