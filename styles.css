@@ -6,7 +6,7 @@ header {
   background-color: #fae5e4;
   padding: 10px 16px;
   max-width: 435px;
-  max-height: 94px;
+  max-height: 84px;
   border-radius: 5px;
 }
 
@@ -21,9 +21,9 @@ div {
   color: #de1515;
   text-align: center;
   font-family: "Roboto Mono";
-  font-size: 24px;
+  font-size: 26px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 350;
   line-height: 32px; /* 133.333% */
   letter-spacing: -0.12px;
 }
@@ -36,7 +36,7 @@ img {
   color: #de1515;
   text-align: center;
   font-family: "Roboto Mono";
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   line-height: 32px; /* 133.333% */
   letter-spacing: -0.12px;
